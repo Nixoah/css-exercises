@@ -1,0 +1,12 @@
+.YB,
+.NB{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.YB{
+    background-color: black;
+    color:#f0ffff;
+}
+.NB{
+    background-color: rgb(255,255,0);
+}
